@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Deploy-github-with-routes/static/css/main.09383d71.css",
+    "main.js": "/Deploy-github-with-routes/static/js/main.69b0b349.js",
+    "static/media/thisisengineering-raeng-SyRlD4s_amw-unsplash.jpg": "/Deploy-github-with-routes/static/media/thisisengineering-raeng-SyRlD4s_amw-unsplash.a263fdb48fd3601dcf5e.jpg",
+    "static/media/uriel-soberanes-MxVkWPiJALs-unsplash.jpg": "/Deploy-github-with-routes/static/media/uriel-soberanes-MxVkWPiJALs-unsplash.0ac87df0fe1ea7c91906.jpg",
+    "static/media/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg": "/Deploy-github-with-routes/static/media/thisisengineering-raeng-sbVu5zitZt0-unsplash.8a2879fea8ae1086b8f2.jpg",
+    "index.html": "/Deploy-github-with-routes/index.html",
+    "main.09383d71.css.map": "/Deploy-github-with-routes/static/css/main.09383d71.css.map",
+    "main.69b0b349.js.map": "/Deploy-github-with-routes/static/js/main.69b0b349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09383d71.css",
+    "static/js/main.69b0b349.js"
+  ]
+}
